@@ -13,6 +13,7 @@
 		CFDB0C5526A75A2500E4081F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFDB0C5326A75A2500E4081F /* Main.storyboard */; };
 		CFDB0C5726A75A2A00E4081F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFDB0C5626A75A2A00E4081F /* Assets.xcassets */; };
 		CFDB0C5A26A75A2A00E4081F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFDB0C5826A75A2A00E4081F /* LaunchScreen.storyboard */; };
+		CFDB0C6226A75AAD00E4081F /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFDB0C6126A75AAD00E4081F /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CFDB0C5626A75A2A00E4081F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFDB0C5926A75A2A00E4081F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CFDB0C5B26A75A2A00E4081F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFDB0C6126A75AAD00E4081F /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CFDB0C5626A75A2A00E4081F /* Assets.xcassets */,
 				CFDB0C5826A75A2A00E4081F /* LaunchScreen.storyboard */,
 				CFDB0C5B26A75A2A00E4081F /* Info.plist */,
+				CFDB0C6126A75AAD00E4081F /* WebViewController.swift */,
 			);
 			path = WebViewApplication;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				CFDB0C5226A75A2500E4081F /* ViewController.swift in Sources */,
 				CFDB0C4E26A75A2500E4081F /* AppDelegate.swift in Sources */,
 				CFDB0C5026A75A2500E4081F /* SceneDelegate.swift in Sources */,
+				CFDB0C6226A75AAD00E4081F /* WebViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
